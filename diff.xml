@@ -1,0 +1,26 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="/usr/local/bin/kdiff3" newValue="/usr/local/bin/kdiff3" />
+    <mergeTool value="/usr/local/bin/kdiff3" newValue="/usr/local/bin/kdiff3" />
+    <mergeToolParameters value="%3 %2 %1 -o %4" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+</application>
