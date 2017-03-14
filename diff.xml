@@ -1,5 +1,5 @@
 <application>
-  <component name="DiffManager">
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <enableMerge value="true" />
     <mergeTool value="/usr/local/bin/kdiff3" newValue="/usr/local/bin/kdiff3" />
     <mergeToolParameters value="%2 %1 %3 -o %4" />
